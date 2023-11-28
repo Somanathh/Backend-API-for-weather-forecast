@@ -28,3 +28,11 @@ Error Handling :
 
 If the 'location' parameter is missing, the API will respond with a 400 Bad Request and an error message.
 If there is an issue with retrieving weather data from OpenWeatherMap, the API will respond with the appropriate HTTP status code and an error message.
+
+
+![output screenshot](https://github.com/Somanathh/Backend-API-for-weather-forecast/assets/118989426/294f26a3-4e45-4c73-82ec-2e909cac0182)
+
+
+
+
+
